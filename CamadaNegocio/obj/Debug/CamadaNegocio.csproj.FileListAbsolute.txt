@@ -1,0 +1,15 @@
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.pdb
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaNegocio\obj\Debug\CamadaNegocio.pdb
