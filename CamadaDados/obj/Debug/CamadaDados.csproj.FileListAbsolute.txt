@@ -1,0 +1,11 @@
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Danilo.Santty\source\repos\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\jonat\Desktop\Atualizado1.1\SistemaAdmCondominio\CamadaDados\obj\Debug\CamadaDados.pdb
